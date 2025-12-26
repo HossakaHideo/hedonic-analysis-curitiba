@@ -90,6 +90,6 @@ Download the following shapefiles and place them in a `Shapefiles/` folder:
 
 ## Author
 
-Lucas Salamuni
-University of Cologne - MSc Economics
+Lucas Salamuni <br>
+University of Cologne - MSc Economics <br>
 Winter Semester 2024/25
